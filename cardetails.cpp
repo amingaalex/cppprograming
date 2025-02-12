@@ -1,3 +1,6 @@
+/* Name: Alex Abere
+Adm: BSCIT-05-0063/2024*/
+
 #include <iostream>
 #include <string>
 using namespace std;
