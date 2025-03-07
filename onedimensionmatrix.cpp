@@ -1,3 +1,8 @@
+/*Name: Alex Abere
+ADM: BSCIT-05-0063/2024
+    VERSION 1
+    7/03/2024 */
+     
 #include <iostream>
 using namespace std;
 
